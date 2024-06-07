@@ -13,3 +13,5 @@ git status [ list untracked files]
 git add -A [ Adding all untracked files to staging area]
 
 git commit -m "commit message" 
+
+git branch [list all branches]
