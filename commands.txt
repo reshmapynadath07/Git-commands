@@ -5,3 +5,11 @@ git config --list [shows git username,email]
 git config --global user.name "username" [ to set git username]
 
 git config --global user.email "email id" [ to set git email]
+
+git init [ to initialize git repository in pwd]
+
+git status [ list untracked files]
+
+git add -A [ Adding all untracked files to staging area]
+
+git commit -m "commit message" 
